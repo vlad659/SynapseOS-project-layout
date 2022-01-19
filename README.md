@@ -1,0 +1,2 @@
+# SynapseOS-project layout
+ 
